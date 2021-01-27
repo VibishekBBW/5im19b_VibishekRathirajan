@@ -18,7 +18,7 @@ public class MyEchoServer extends Thread {
 	
 	public static void main(String[] args) throws IOException {
 		
-		String version = new String( "MyEchoServer - Version 1.1.0" );
+		String version = new String( "MyEchoServer - Version 1.0.0" );
 		
 		ServerSocket serverSocket = null;
 
